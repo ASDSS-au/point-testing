@@ -1,2 +1,0 @@
-# point-testing
-point testing
